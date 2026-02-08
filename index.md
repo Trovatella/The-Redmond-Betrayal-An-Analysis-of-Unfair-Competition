@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Redmond Betrayal
+title: The Redmond Betrayal MICROSOFT-WANTS-TO-REDMONDIZE-GOOGLE-BUT-IS-GOING-TO-LOSE-ITS-MATCH
 theme: jekyll-theme-cayman
 ---
 "Microsoft loves Linux" the biggest lie and scam of Redmond 
